@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vinicius Espindola</h1>  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="300" />
 
-<h3 >Polyglot software engineer. information system student,information security and data science enthusiast</h3>  
+<h3 >Platform Engineer and IAOps</h3>  
 <br>
 
-- 🔭 I’m currently working on [Sistema de Gestão de Eventos](https://github.com/Gerenciador-de-Evento/API_credenciamento)  
+- 🔭 I’m currently working on a operator for extract the token usage to observability of AI agent  
   
-- 🌱 I’m currently learning **hadoop,kafka,kubernetes,nomad,consul**  
+- 🌱 I’m currently learning **fine tunning models**  
   
-- 💬 Ask me about **react,vue,node,elixir,php,clojure,rust**  
+- 💬 Ask me about **K8s,Cloud,CI/CD,Docker,Python,Elixir, Rust,Golang,PHP**  
   
 - 📫 How to reach me **vinnyaoe@gmail.com**  
   
