@@ -4,11 +4,7 @@
 <h3 >Platform Engineer and IAOps</h3>  
 <br>
 
-- 🔭 I’m currently working on a operator for extract the token usage to observability of AI agent  
-  
-- 🌱 I’m currently learning **fine tunning models**  
-  
-- 💬 Ask me about **K8s,Cloud,CI/CD,Docker,Python,Elixir, Rust,Golang,PHP**  
+- 💬 Ask me about **Kubernetes, Observability, SRE, Platform Engineering, Cloud, CI/CD, Docker, Infrastructure as Code, Reliability & Incident Response**  
   
 - 📫 How to reach me **vinnyaoe@gmail.com**  
   
